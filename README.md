@@ -17,7 +17,7 @@
  
 ![Smart Contract HTML interface 1](demo/smartContract_HTMLinterface.gif)
 
-*Smart Contract HTML interface
+*  Smart Contract HTML interface
 
 ![Smart Contract HTML interface 2](demo/smartContract_HTMLinterface1.gif)
 
@@ -25,7 +25,7 @@
 
 ![Viewing Transactions on Metamask and Blockchain Explorer ](demo/MetaMask_BlockchainExplorer.gif)
 
-*Transactions on Blockchain Explorer
+*  Transactions done using frontend can be viewed on Blockchain Explorer
 
 ![Transactions on Blockchain Explorer](demo/BlockchainExplorer_transactions.gif)
 
